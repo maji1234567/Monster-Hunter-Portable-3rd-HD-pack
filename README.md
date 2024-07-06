@@ -1,6 +1,6 @@
 # Monster-Hunter-Portable-3rd-HD-pack
 A pack that improves the resolution of textures either by upscaling them or taken directly from 3U / 3tri
-(isn´t finished yet, i will upload things what i have done)
+(now its finished)
 Credits: AFOOT, Darix, !-0 Kuña’i Ñakurutû (Tano), Effy and Stormie
 ![Captura de pantalla (187)](https://user-images.githubusercontent.com/71895210/145267711-f88d24e8-3bea-4806-b02b-e8f6fc8c5ca7.png)
 ![Captura de pantalla (186)](https://user-images.githubusercontent.com/71895210/145267717-0d40dd33-b674-4fe9-b610-c9efc152a835.png)
